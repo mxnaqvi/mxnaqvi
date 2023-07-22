@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Python!
 
-- 👨‍💻 All of my projects are available at [https://mxnaqvi.github.io/portfolio-site/](https://mxnaqvi.github.io/portfolio-site/)
+- 👨‍💻 Learn more about me at my [Portfolio](https://mxnaqvi.github.io/portfolio-site/)
 
 - 📫 How to reach me **mohammadnaqvi25@gmail.com**
 
