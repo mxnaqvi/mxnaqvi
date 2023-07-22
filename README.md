@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mohammad Naqvi</h1>
 <h3 align="center">A passionate full-stack developer from New York</h3>
 
-- 🔭 I’m currently working on [Slurp](https://github.com/mxnaqvi/slurp)
+- 🔭 I’m currently working on [Slurp](https://github.com/mxnaqvi/slurp) <br></br>
+![CPT2307221217-500x231](https://github.com/mxnaqvi/mxnaqvi/assets/115838782/87129c26-6d58-4216-85f2-d5a6e9a8454d)
 
-- and [Street-Lite](https://github.com/treypisano/Street-Lite)
+- and [Street-Lite](https://github.com/treypisano/Street-Lite) <br></br>
+![CPT2307221222-500x228](https://github.com/mxnaqvi/mxnaqvi/assets/115838782/99ef62a5-5689-4e02-a1ac-8938316372e8)
 
-- and [Audio Atlas](https://github.com/mxnaqvi/audio-atlas)
+
+- as well as [Audio Atlas](https://github.com/mxnaqvi/audio-atlas) <br></br>
+![CPT2307221226-500x221](https://github.com/mxnaqvi/mxnaqvi/assets/115838782/f8aa3719-bad0-4f09-b458-c15da267101e)
+
 
 - 🌱 I’m currently learning Python!
 
 - 👨‍💻 Learn more about me at my [Portfolio](https://mxnaqvi.github.io/portfolio-site/)
 
-- 📫 How to reach me **mohammadnaqvi25@gmail.com**
+- 📫 You can reach me at **mohammadnaqvi25@gmail.com**
 
 - ⚡ Fun fact **I was originally a pre-medical student!**
 
