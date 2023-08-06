@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohammad Naqvi</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Naqvi </h1>
 <h3 align="center">A passionate full-stack developer from New York, with a background in medical sciences and healthcare</h3>
+<div align="center">
+  <img src="https://github.com/mxnaqvi/mxnaqvi/assets/115838782/dfe4355e-de05-4b74-9181-354202c547a6" alt="coding-animated-laptop-flow-stream-ja04010rm5o68zfk" height="100 px" width="100 px" />
+</div>
 
 - 👨‍💻 Learn more about me at my [Portfolio](https://mxnaqvi.github.io/portfolio-site/)
 
